@@ -90,10 +90,7 @@ sections:
           location: Cambridge, U.S.A
           date_start: '2022-12-10'
           date_end: ''
-          description: 
-          • Built a CNN for image classification on the MNIST dataset and evaluated the trained model on an independent test set. 
-          • Built a semantic segmentation pipeline for autonomous driving by using the Cityscapes dataset, which provides a diverse range of pixel-wise annotations across a wide array of different cities and environments.
-          • Implemented a network for semantic segmentation in image data, and also generate estimates of aleatoric and epistemic uncertainties associated with the segmentation.
+          description: Built a CNN for image classification on the MNIST dataset and evaluated the trained model on an independent test set. 
         - title: NC State University's Developing Cultural Competence Student Certificate program(Online)
           company: North Carolina State University
           company_url: ''
@@ -109,11 +106,7 @@ sections:
           location: Edmonton,Canada
           date_start: '2022-07-08'
           date_end: '2022-10-08'
-          description: 
-          • Took over a project for a motion sensor glove attached to 5 flex sensors and 16 IMUs which can get the motion and position of the user’s hand. Tested the sensors and attached them to the glove. Wrote code to get data from sensors on the glove.
-          • Organized and planned the materials for an augmented cane project which use multimodal sensing and intuitive steering assistance to improve navigation and mobility for people with impaired vision.
-          • Completed the partial assembly of a prosthetic hand project and the test of the motors. The project proposal was to develop a prosthetic hand that would be accessible with an affordable implantation cost. The hand was functional with an EMG-controlled system, and scalable to customize EMG processing to each user.
-          • Participated in some other projects about EEG system and motion capture as a volunteer for tests. 
+          description: Took over a project for a motion sensor glove attached to 5 flex sensors and 16 IMUs which can get the motion and position of the user’s hand. Tested the sensors and attached them to the glove. Wrote code to get data from sensors on the glove.
     design:
       columns: '2'
   - block: accomplishments
