@@ -90,7 +90,8 @@ sections:
           location: Cambridge, U.S.A
           date_start: '2022-12-10'
           date_end: ''
-          description: Built a CNN for image classification on the MNIST dataset and evaluated the trained model on an independent test set. 
+          description: |2-
+              Built a CNN for image classification on the MNIST dataset and evaluated the trained model on an independent test set. 
         - title: NC State University's Developing Cultural Competence Student Certificate program(Online)
           company: North Carolina State University
           company_url: ''
@@ -106,7 +107,8 @@ sections:
           location: Edmonton,Canada
           date_start: '2022-07-08'
           date_end: '2022-10-08'
-          description: Took over a project for a motion sensor glove attached to 5 flex sensors and 16 IMUs which can get the motion and position of the user’s hand. Tested the sensors and attached them to the glove. Wrote code to get data from sensors on the glove.
+          description: |2-
+              Took over a project for a motion sensor glove attached to 5 flex sensors and 16 IMUs which can get the motion and position of the user’s hand. Tested the sensors and attached them to the glove. Wrote code to get data from sensors on the glove.
     design:
       columns: '2'
   - block: accomplishments
