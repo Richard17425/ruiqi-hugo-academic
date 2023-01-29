@@ -8,13 +8,13 @@ last_name: Mao
 
 # Status emoji
 status:
-  icon: 👨‍💻✔
+  icon: 👨‍💻
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: BSe in Mechanical Engineering
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -36,7 +36,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: Bachelor of Engineering in Mechanical Engineering and Automation
+    - course: BSe in Mechanical Engineering
       institution: Huazhong University of Science and Technology
       year: 2024
     # - course: MEng in Artificial Intelligence
@@ -83,5 +83,5 @@ email: ''
 highlight_name: true
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Ruiqi Mao is a junior undergraduate student at Huazhong University of Science and Technology (HUST) in China. He is major in Mechanical Design manufacture and Automation. His research interests include Mechanical Design, Robotics, Human-robot Interactions, Motion Planning, Computer Vision, Embedded Systems. 
 {style="text-align: justify;"}
