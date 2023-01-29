@@ -73,7 +73,7 @@ sections:
         - title: Undergraduate Student
           company: Huazhong University of Science and Technology
           company_url: ''
-          company_logo: org-HUST
+          company_logo: org-X
           location: Wuhan,China
           date_start: '2020-09-01'
           date_end: ''
@@ -86,7 +86,7 @@ sections:
         - title: Deep Learning in Computer Vision Project
           company: Massachusetts Institute of Technology
           company_url: ''
-          company_logo: org-MIT
+          company_logo: org-X
           location: Cambridge, U.S.A
           date_start: '2022-12-10'
           date_end: ''
@@ -95,7 +95,7 @@ sections:
         - title: NC State University's Developing Cultural Competence Student Certificate program(Online)
           company: North Carolina State University
           company_url: ''
-          company_logo: org-NC State
+          company_logo: org-X
           location: Raleigh,U.S.A
           date_start: '2022-10-01'
           date_end: '2020-11-22'
@@ -103,7 +103,7 @@ sections:
         - title: China Scholarship Council (CSC) Funded Internships
           company: University of Alberta
           company_url: ''
-          company_logo: org-UofA
+          company_logo: org-U
           location: Edmonton,Canada
           date_start: '2022-07-08'
           date_end: '2022-10-08'
